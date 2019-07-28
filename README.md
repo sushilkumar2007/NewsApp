@@ -13,7 +13,7 @@ run the command > gradlew build
 run the command > gradlew assembleDebug   
 // This creats the file  app-debug.apk in folder app/build/outputs/apk/debug/
 
-# How to check lint warnings and erros
+# How to check lint warnings and errors
 
 run the command >gradlew lint  
 
