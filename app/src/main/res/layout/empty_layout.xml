@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:id="@+id/empty_view"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/empty_imageView"
+        android:layout_width="@dimen/nity_dp"
+        android:layout_height="@dimen/nity_dp"
+        android:layout_marginLeft="@dimen/ten_dp"
+        android:layout_marginRight="@dimen/ten_dp"
+        android:layout_marginTop="@dimen/ten_dp"
+        android:contentDescription="@string/error_image"
+        android:src="@drawable/ic_network_disconnected" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="@string/network_disconnected"
+        android:id="@+id/empty_message"
+        android:gravity="center"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/retry"
+        android:layout_marginTop="5dp"
+        android:text="@string/retry"
+        android:textSize="@dimen/twelve_sp"
+        android:layout_height="@dimen/thirtyFive_dp" />
+
+
+</LinearLayout>

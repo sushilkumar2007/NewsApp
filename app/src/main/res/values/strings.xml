@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NYT</string>
+    <string name="network_disconnected">Sorry network in not avialable !</string>
+    <string name="retry">Retry</string>
+    <string name="nyt_key">Dw9ovGjzGl0IG3b6SVnbv8a3G9PALWRo</string>
+    <string name="no_item">Sorry no news feed found</string>
+    <string name="toolbar_title">NY Times Most Popular</string>
+    <string name="action_search">Search</string>
+    <string name="most_popular">Most Poular</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="error_image">Error Image</string>
+    <string name="feed_image">Feed Image</string>
+</resources>

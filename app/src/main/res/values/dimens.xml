@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+    <dimen name="fifteen_sp">15sp</dimen>
+    <dimen name="twelve_sp">12sp</dimen>
+    <dimen name="thirty_sp">30sp</dimen>
+    <dimen name="nity_dp">90dp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="five_dp">5dp</dimen>
+    <dimen name="thirtyFive_dp">35dp</dimen>
+    <dimen name="twoThirty_dp">230dp</dimen>
+
+</resources>
