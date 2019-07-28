@@ -1,4 +1,4 @@
-# Assignment News App
+# Assignment News App ( MVC Pattern used )
 # How To Build
 
 Take a clone of project . Open android studio and select the NewsApp project.
