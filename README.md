@@ -3,7 +3,8 @@
 
 Take a clone of project . Open android studio and select the NewsApp project.
 
-#Command for build ther project.
+# Command for build ther project.
+
 open terminal in android studio.
 run the command > gradlew build
 
